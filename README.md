@@ -19,4 +19,6 @@ okazało się że ACCESS DENIED wystąpił na pliku - C:\Platnik\ASSECO.AKTUALIZ
 po dodanu uprawnień dla konkretnego użytkownika (bądź grupy) wszystko działa prawidłowo.
 
 
+# !!!
+
 Nie należy od razy dodawać użytkownika do grupy local Admin gdy coś nie działa, warto czasem sprawdzić programem Process Monitor
